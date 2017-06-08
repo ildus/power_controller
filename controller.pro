@@ -1,4 +1,4 @@
-update=Mon 29 May 2017 10:29:19 PM MSK
+update=Sun 04 Jun 2017 12:02:34 AM MSK
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=xl6009
+LibName31=/home/ildus/kicad/avrisp/BZX84
