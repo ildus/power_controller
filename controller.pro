@@ -1,4 +1,4 @@
-update=Sun 04 Jun 2017 12:02:34 AM MSK
+update=Wed 19 Jul 2017 01:09:20 AM MSK
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=xl6009
 LibName31=/home/ildus/kicad/avrisp/BZX84
+LibName32=/home/ildus/kicad/kicad-library-custom/AO3400A
