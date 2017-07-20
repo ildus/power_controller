@@ -893,4 +893,10 @@ Wire Wire Line
 	3150 5150 3150 5250
 Wire Wire Line
 	3150 5250 2750 5250
+Text Label 5000 3000 0    60   ~ 0
+green
+Text Label 5000 3100 0    60   ~ 0
+red
+Text Label 2350 4750 0    60   ~ 0
+vdd
 $EndSCHEMATC
